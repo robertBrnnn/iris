@@ -1,0 +1,10 @@
+*~
+*__pycache__*
+iris/storage.txt
+iris/static/#*.glade#
+build
+dist
+Iris-Mail-Client-*.*.tar.gz
+deb_dist
+*.egg-info
+*.pyc

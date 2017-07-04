@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=iris
+GenericName=A mail client for GMail/Google Inox services
+Comment=A python mail client
+Icon=iris
+TryExec=iris
+Exec=iris
+Terminal=false
+Categories=Application;Email;Network; 
+Keywords=Python;Editor;microbit;micro:bit;

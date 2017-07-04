@@ -1,0 +1,4 @@
+include iris/iris.ini
+include iris/static/*
+include conf/*
+include requirements.txt
